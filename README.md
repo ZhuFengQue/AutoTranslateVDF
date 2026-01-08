@@ -1,0 +1,2 @@
+# AutoTranslateVDF
+使DeepSeek_API翻译steam后台所需的本地化文件。
